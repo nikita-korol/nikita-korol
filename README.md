@@ -8,11 +8,13 @@ Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
 **PROJECTS_**<br/>
+- [Data analytics](https://github.com/nikita-korol/Portfolio/blob/main/project_1%20movie%20TMDb.ipynb)<br/>
+Description:<br/> My A/B experiments with some apps datasets.
 - [A/B testing](https://github.com/nikita-korol/Portfolio/blob/main/Project_2%20AB%20Test.ipynb)<br/>
 Description:<br/> My A/B experiments with some apps datasets.
-- [Statistics](https://github.com/nikita-korol/Statistcs)<br/>
+- [A/A testing](https://github.com/nikita-korol/Portfolio/blob/main/aatest.ipynb)<br/>
 Description:<br/>Statiscs practice
-- [API](https://github.com/nikita-korol/API)<br/>
+- [Bootstrap](https://github.com/nikita-korol/Portfolio/blob/main/bootstrap.ipynb)<br/>
 Description:<br/>Work with Google sheets, VK and Telegram api
 
 **STACK_**<br/>
