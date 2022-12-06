@@ -9,7 +9,8 @@ Love Data Science.
 
 **PROJECTS_**<br/>
 - [Data analytics](https://github.com/nikita-korol/Portfolio/blob/main/project_1%20movie%20TMDb.ipynb)<br/>
-Description:<br/> My A/B experiments with some apps datasets.
+Description:<br/> Detailed analysis of the dataset with all the films of the TMDb site.<br/>
+Подробный анализ датасета с сайта о фильмах TMDb.<br/>
 - [A/B testing](https://github.com/nikita-korol/Portfolio/blob/main/Project_2%20AB%20Test.ipynb)<br/>
 Description:<br/> My A/B experiments with some apps datasets.
 - [A/A testing](https://github.com/nikita-korol/Portfolio/blob/main/aatest.ipynb)<br/>
