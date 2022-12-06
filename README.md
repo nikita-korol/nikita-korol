@@ -8,9 +8,7 @@ Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
 **PROJECTS_**<br/>
-- [E-commerce project](https://github.com/nikita-korol/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
-Description:<br/> Major part of this project is cohort and RFM segmentation.
-- [A/B testing](https://github.com/nikita-korol/A-B_testing)<br/>
+- [A/B testing]([https://github.com/nikita-korol/A-B_testing](https://github.com/nikita-korol/Portfolio/blob/main/Project_2%20AB%20Test.ipynb))<br/>
 Description:<br/> My A/B experiments with some apps datasets.
 - [Statistics](https://github.com/nikita-korol/Statistcs)<br/>
 Description:<br/>Statiscs practice
