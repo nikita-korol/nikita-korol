@@ -9,15 +9,15 @@ Love Data Science.
 
 **PROJECTS_**<br/>
 - [Data analytics](https://github.com/nikita-korol/Portfolio/blob/main/project_1%20movie%20TMDb.ipynb)<br/>
-Description:<br/> Detailed analysis of the dataset with all the films of the TMDb site.<br/>
+**Description:**<br/> Detailed analysis of the dataset with all the films of the TMDb site.<br/>
 Подробный анализ датасета с сайта о фильмах TMDb.<br/>
 - [A/B testing](https://github.com/nikita-korol/Portfolio/blob/main/Project_2%20AB%20Test.ipynb)<br/>
-Description:<br/> My A/B experiments with dataset from Kaggle site.<br/>
+**Description:**<br/> My A/B experiments with dataset from Kaggle site.<br/>
 Эксперименты с А/B тестированием на примере датасета с сайта Kaggle
 - [A/A testing](https://github.com/nikita-korol/Portfolio/blob/main/aatest.ipynb)<br/>
-Description:<br/>Statiscs practice
+**Description:**<br/>Statiscs practice
 - [Bootstrap & U-test](https://github.com/nikita-korol/Portfolio/blob/main/bootstrap.ipynb)<br/>
-Description:<br/> Working with statistical hypothesis testing methods<br/>
+**Description:**<br/> Working with statistical hypothesis testing methods<br/>
 Работа с методами проверки статистических гипотез
 
 **STACK_**<br/>
