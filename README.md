@@ -8,7 +8,7 @@ Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
 **PROJECTS_**<br/>
-- [A/B testing]([https://github.com/nikita-korol/A-B_testing](https://github.com/nikita-korol/Portfolio/blob/main/Project_2%20AB%20Test.ipynb))<br/>
+- [A/B testing](https://github.com/nikita-korol/Portfolio/blob/main/Project_2%20AB%20Test.ipynb)<br/>
 Description:<br/> My A/B experiments with some apps datasets.
 - [Statistics](https://github.com/nikita-korol/Statistcs)<br/>
 Description:<br/>Statiscs practice
