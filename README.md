@@ -15,7 +15,8 @@ Love Data Science.
 **Description:**<br/> My A/B experiments with dataset from Kaggle site.<br/>
 Эксперименты с А/B тестированием на примере датасета с сайта Kaggle
 - [A/A testing](https://github.com/nikita-korol/Portfolio/blob/main/aatest.ipynb)<br/>
-**Description:**<br/>Statiscs practice
+**Description:**<br/>A/A testing practice<br/>
+Работа с А/А тестированием
 - [Bootstrap & U-test](https://github.com/nikita-korol/Portfolio/blob/main/bootstrap.ipynb)<br/>
 **Description:**<br/> Working with statistical hypothesis testing methods<br/>
 Работа с методами проверки статистических гипотез
