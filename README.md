@@ -22,12 +22,11 @@ Love Data Science.
 Работа с методами проверки статистических гипотез
 
 **STACK_**<br/>
-- Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
-- SQL (ClickHouse, PostgreSQL)
+- Python (Pandas, Seaborn, SciPy, NumPy)
+- SQL (BigQuery, PostgreSQL)
 - A/B testing and statistics
-- BI systems (Tableau)
+- BI systems (Power BI)
 - Git
-- Airflow
 - Excel
 
 **CONTACT_**<br/>
